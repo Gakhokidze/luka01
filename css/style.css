@@ -1,0 +1,303 @@
+.odyssey {
+	font-size: 51px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+}
+.section {
+	/*display: inline-block;*/
+	width: 337.51px;
+	height: 113.38px;
+	margin-top: 74px;
+	/*margin-right: 209px;*/
+	margin-left: 132px;
+}
+.img {
+	display: inline-block;
+	float: left;
+}
+.Bicycle {
+	display: inline-block;
+	color: #51E8EF;
+	font-size: 25px;
+	padding-left: 34px;
+	width: 196px;
+	height: 33px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+}
+.section2 {
+	width: 483px;
+	margin-left: 99px;
+	/*display: inline-block;*/
+}
+.article2 {
+	display: inline-block;
+}
+.About {
+	font-family: 'Rajdhani', sans-serif;
+	color: #51E8EF;
+	font-size: 24px;
+	text-align: center;
+	padding-bottom: 18px;
+	/*display: inline-block;*/
+}
+.text {
+	font-family: 'Rajdhani', sans-serif;
+	color: #707070;
+	font-size: 16px;
+	text-align: center;
+	display: inline-block;
+}
+.shorttext {
+	font-family: 'Rajdhani', sans-serif;
+	color: #707070;
+	font-size: 16px;
+	text-align: center;
+	display: inline-block;
+}
+.moreinfo {
+	display: inline-block;
+}
+.art {
+	display: inline-block;
+	vertical-align: text-top;
+}
+.more {
+	padding-top: 27px;
+	margin-left: 107px;
+	color: #51E8EF;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 16px;
+	padding-bottom: 16px;
+	/*display: inline-block;*/
+}
+.address {
+	margin-left: 200px;
+	color: #707070;
+	max-height: 165px;
+	max-width: 280px;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 16px;
+	text-align: center;
+	/*display: inline-block;*/
+}
+.bicke {
+	color: #51E8EF;
+	font-size: 24px;
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	padding-bottom: 16px;
+	/*display: inline-block;*/
+}
+.bickemodel {
+	width: 540px;
+	height: 97px;
+	margin-left: 70px;
+	margin-top: 31px;
+	display: inline-block;
+}
+.addressbicke {
+	font-size: 16px;
+	color: #707070;
+	padding-bottom: 7px;
+	display: inline-block;
+}
+.eddiemauro {
+	font-size: 16px;
+	color: #51E8EF;
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	/*display: inline-block;*/
+}
+.down {
+	width: 540px;
+	height: 97px;
+	margin-left: 70px;
+	margin-top: 77px;
+	display: inline-block;
+}
+.DOWNLOADING {
+	text-align: center;
+	color: #51E8EF;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 24px;
+	/*display: inline-block;*/
+}
+.Euroart93 {
+	text-align: center;
+	color: #707070;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 14px;
+	/*display: inline-block;*/
+}
+.homesection {
+	display: inline-block;
+	width: 192px;
+	height: 54px;
+	margin-top: 48px;
+	margin-left: 141px;
+	vertical-align: middle;
+	float: left;
+}
+.homeimg {
+	display: inline-block;
+	vertical-align: middle;
+	float: left;
+	width: 59px;
+	height: 46px;
+}
+.homeodyssey {
+	font-size: 24px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	vertical-align: middle;
+	display: inline-block;
+}
+.homeBicycle {
+	display: inline-block;
+	color: #51E8EF;
+	font-size: 12px;
+	padding-left: 16px;
+	width: 94px;
+	height: 16px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	vertical-align: middle;
+}
+.homenav {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: : 140px;
+	margin-left: 1044px;
+	margin-top: 65px;
+	color: #707070;
+	height: 144px;
+	width: 1920px;
+	/*float: right;*/
+	align-items: center;
+	position: fixed;
+}
+.homeBIKES {
+	vertical-align: middle;
+	display: inline-block;
+	box-sizing: border-box;
+	color: #707070;
+	padding-right: 90px;
+	font-family:  Otomanopee One;
+}
+.homeSERVICES {
+	color: #707070;
+	vertical-align: middle;
+	display: inline-block;
+	padding-right: 90px;
+}
+.homeABOUT {
+	color: #707070;
+	vertical-align: middle;
+	display: inline-block;
+}
+li:hover {
+	color: #51E8EF;
+}
+
+.box {
+	background-image: url(../img/biker.jpg);
+	padding: 800px 100px;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	/*padding: 1280px 720px;*/
+}
+.divhomeodyssey {
+	color: #FFFFFF;
+	font-size: 64px;
+	display: inline-block;
+	float: left;
+	
+}
+.homese2ction {
+	margin-top: 448px;
+	margin-left: 140px;
+	width: 415px;
+	height: 376px;
+}
+.HomeOne {
+	font-size: 96px;
+	color: #51E8EF;
+	text-align: left;
+	padding-top: 64px;
+}
+.homeboxp {
+	padding-top: 21px;
+	color: #707070;
+}
+.BuyOne {
+	color: #51E8EF;
+	padding-top: 18px;
+	padding-left: 32px;
+	/*width: 136px;
+	height: 52px;*/
+}
+.buyoneend {
+	outline: 1px solid #51E8EF;
+	width: 136px;
+	height: 52px;
+	margin-top: 40px;
+}
+.footerhomenav {
+	display: inline-block;
+	vertical-align: middle;
+	width: 1016px;
+	height: 45px;
+	margin-top: 949px;
+	margin-left: 763px;
+	color: #FFFFFF;
+}
+.footerli1 {
+	width: 176px;
+	height: 46px;
+	display: inline-block;
+}
+.speedh3 {
+	font-size: 12px;
+	color: #707070;
+	display: inline-block;
+}
+.homenavpfooter {
+	font-size: 16px;
+	/*display: inline-block;*/
+}
+.Materialnav {
+	width: 176px;
+	height: 46px;
+	display: inline-block;
+	padding-left: 228px;
+}
+.Materialli {
+	font-size: 12px;
+	color: #707070;
+	/*display: inline-block;
+*/}
+.Carbonh3 {
+	font-size: 16px;
+	display: inline-block;
+}
+.footersizes {
+	width: 176px;
+	height: 46px;
+	display: inline-block;
+	padding-left: 228px;
+}
+.psizes {
+	font-size: 12px;
+	color: #707070;
+}
+.smlxlsizes {
+	font-size: 16px;
+	display: inline-block;
+}
